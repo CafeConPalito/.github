@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/TerciodeMarte/DAM/blob/main/LOGO%20CCP/logo-rb.png"  style="width: 50%"  />
+<img src="https://github.com/CafeConPalito/.github/blob/main/logo.png"  style="width: 50%"  />
 </div>
 
 ## Desarrolladores
