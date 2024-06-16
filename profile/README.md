@@ -8,6 +8,11 @@
 * [Daniel Espinosa García](https://github.com/Daniel-Espinosa) - Daniel Espinosa García
 * [Ramiro Gutiérrez Valverde](https://github.com/ramirogvalverde) - Ramiro Gutiérrez Valverde
 
+## Proyectos
+* [Github](https://github.com/CafeConPalito/AgilizandoMentes2) - Agilizando Mentes 2
+* [Github](https://github.com/CafeConPalito/ProyectoVax) - Proyecto Vax
+* [Github](https://github.com/CafeConPalito/TFCProyectoChikara) - Proyecto Chikara
+
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
